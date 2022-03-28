@@ -1,6 +1,4 @@
-//Author: Shuren Xu
-//Macid: xus83
-//Student#: 400195313 
+//Author: idkwhodatis
 
 
 #include <stdio.h>
